@@ -1,0 +1,12 @@
+# Site settings
+title: Dev Notes
+email: your-email@domain.com
+description: "Development notes"
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: pygments
