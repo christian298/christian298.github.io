@@ -1,5 +1,5 @@
 # Site settings
-title: Dev Notes
+title: Dev-Notes
 email: your-email@domain.com
 description: "Development notes"
 baseurl: ""
@@ -10,3 +10,6 @@ markdown: kramdown
 permalink: pretty
 
 highlighter: pygments
+sass:
+    sass_dir: _sass
+    style: compressed
