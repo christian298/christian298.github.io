@@ -1,9 +1,11 @@
 # Site settings
 title: Dev-Notes
-email: your-email@domain.com
+#email: your-email@domain.com
 description: "Development notes"
 baseurl: ""
 url: "http://yourdomain.com"
+github: christian298
+twitter: christian298
 
 # Build settings
 markdown: kramdown
